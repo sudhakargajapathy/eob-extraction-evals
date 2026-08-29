@@ -1,0 +1,47 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                        EVERGREEN BENEFITS GROUP                                  ║
+║                     EXPLANATION OF BENEFITS (EOB)                                ║
+║                                                                                  ║
+║                          EVERGREEN PREMIER PLUS PLAN                             ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+
+MEMBER INFORMATION
+─────────────────────────────────────────────────────────────────────────────────
+Member Name:              Jennifer M. Vasquez
+Member ID:                EBG-4827-093-M
+Claim Number:             CLM-2026-485721
+Service Dates:            May 12, 2026 through May 12, 2026
+Claim Processed:          May 28, 2026
+
+
+CLAIM DETAILS
+─────────────────────────────────────────────────────────────────────────────────
+Provider:                 Dr. Robert Ellison, Gastroenterology
+Facility:                 Riverside Medical Center
+
+Service Description                    Billed    Allowed    Ded.    Coins.   Plan Paid
+─────────────────────────────────────────────────────────────────────────────────
+Diagnostic Upper Endoscopy             $2,400.00 $1,850.00  $250.00 $370.00  $1,230.00
+Physician Fee                          $   850.00 $   625.00  $125.00 $125.00  $   375.00
+
+─────────────────────────────────────────────────────────────────────────────────
+
+TOTALS
+─────────────────────────────────────────────────────────────────────────────────
+Total Billed Amount:                                          $3,250.00
+Total Allowed Amount:                                         $2,475.00
+Total Deductible Applied:                                     $   375.00
+Total Coinsurance (20%):                                      $   495.00
+Total Plan Paid:                                              $1,605.00
+Total Member Responsibility:                                  $   870.00
+
+
+═════════════════════════════════════════════════════════════════════════════════
+THIS IS NOT A BILL
+
+This document is an explanation of how your insurance claim was processed. Any
+amount you owe should be billed separately by your healthcare provider. If you
+have questions about this EOB, contact Evergreen Benefits Group at
+1-888-EBG-CARE.
+
+═════════════════════════════════════════════════════════════════════════════════

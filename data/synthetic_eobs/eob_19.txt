@@ -1,0 +1,30 @@
+EXPLANATION OF BENEFITS
+
+Meridian Care Alliance
+April 2026 Processing Statement
+
+Claim details
+
+Subscriber ID: MCA 47 29 515
+Subscriber Name: Patricia M. Hendricks
+Provider: Silver Lake Sleep Center
+Claim Number: SLC-2026-084521
+
+The overnight sleep study was performed on April 16, 2026 at Silver Lake Sleep Center.
+
+Payment details
+
+Service Description: Overnight Polysomnography (Sleep Study)
+Procedure Code: 95810
+Billed Amount: $2,847.50
+Allowed Amount: $2,847.50
+Plan Paid: $0.00
+Member Responsibility: $2,847.50
+
+Claim Status: DENIED
+
+Explanation
+
+Your claim has been denied because required precertification was not obtained prior to the service. Denial code CO-197 applies to this service. Additionally, code CO-252 indicates that additional documentation may be necessary to support medical necessity. Please contact Silver Lake Sleep Center to obtain the missing precertification authorization, or submit additional clinical documentation supporting the medical necessity of this overnight sleep study. You may appeal this denial within thirty (30) days of this statement. Your member responsibility of $2,847.50 is currently pending the outcome of any appeal you choose to file.
+
+For questions regarding this claim, contact Meridian Care Alliance Member Services at 1-800-555-0147.

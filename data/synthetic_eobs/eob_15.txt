@@ -1,0 +1,39 @@
+EXPLANATION OF BENEFITS
+Northlake Assurance
+P.O. Box 4721, Chicago, IL 60601
+1-800-555-0147
+
+Claim Statement: March 2026
+Member: Patricia L. Mendez
+Member ID: NL4829156
+Group: Midwest Employer Partners
+Claim #: CLM-2026-0385621
+Provider: Cedar Ridge Home Medical Supply
+Provider ID: NPI-1447852963
+
+CLAIM DETAIL:
+
+SVC DATE    CPT      BILLED      ALLOWED    PAID        PT RESP
+03/15/2026  E1161    1,250.00    1,250.00   0.00        1,250.00
+
+CLAIM SUMMARY:
+Total Billed:                                            1,250.00
+Total Allowed Charges:                                   1,250.00
+Total Plan Paid:                                         0.00
+Total Member Responsibility:                            1,250.00
+
+REMITTANCE CODES:
+PR-204: Service or procedure not covered under the member's plan.
+
+CLAIM NOTES:
+The charge for wheelchair rental (E1161) on 03/15/2026 has been denied.
+This service is not covered under your current plan benefits.
+You are responsible for the full billed amount of $1,250.00.
+
+If you believe this denial is in error, you have the right to appeal.
+Contact Northlake Assurance within 60 days of this notice.
+
+Appeal Department: appeals@northlakeassurance.com
+Phone: 1-800-555-0147 ext. 3421
+
+Thank you for using Northlake Assurance.

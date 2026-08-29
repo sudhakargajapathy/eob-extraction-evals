@@ -1,0 +1,49 @@
+EXPLANATION OF BENEFITS
+Harbor Point Mutual
+
+Member: Jennifer Walsh
+Member ID: HRP-8847291-B
+DOB: 03/14/1979
+Claim Number: CLM-2601-447285
+
+Provider: Lakeview Diagnostics Laboratory
+Provider Tax ID: 45-8821903
+Service Period: January 1-31, 2026
+
+===============================================================================
+SVC DATE    CPT      DESCRIPTION                    BILLED      ALLOWED     PAID    PT RESP
+===============================================================================
+01/15/2026  85025    Complete Blood Count           $185.00     $148.20     $118.56  $29.64
+01/15/2026  80053    Comprehensive Metabolic Panel $275.00     $216.40     $173.12  $43.28
+01/15/2026  85610    Prothrombin Time (PT)          $95.00      $76.00      $60.80   $15.20
+===============================================================================
+
+CLAIM SUMMARY
+===============================================================================
+Total Billed Amount                                                    $555.00
+Total Allowed Amount                                                  $440.60
+Total Plan Paid                                                       $352.48
+Total Member Responsibility                                           $88.12
+Deductible Applied                                                     $0.00
+Coinsurance Rate                                                        20%
+
+PAYMENT DETAILS
+===============================================================================
+Provider receives:                                                    $352.48
+
+Member owes provider:                                                  $88.12
+(Difference between billed and allowed: $114.40 is provider write-off)
+
+CONTACT INFORMATION
+===============================================================================
+For questions about this EOB, contact Harbor Point Mutual
+Member Services: 1-800-556-7421
+Claim inquiry line: 1-888-339-9845
+
+Codes:
+A = Allowed per plan guidelines
+C = Coinsurance applied per member cost-sharing
+P = Plan paid
+R = Reduced to allowed amount
+
+This EOB is not a bill. Keep for your records.

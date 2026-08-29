@@ -1,0 +1,47 @@
+EVERGREEN BENEFITS GROUP
+EXPLANATION OF BENEFITS
+
+CLAIM INFORMATION
+Claim Number: EOB-2026-0847562
+Member Name: Rachel Martinez
+Member ID: EGB-489621
+Service Date: February 14, 2026
+Provider: Summit Imaging Center
+Provider ID: SMIT-004521
+
+SERVICE DETAILS
+Service Description: MRI Knee (Right)
+Service Code: 70553
+Billed Amount: $2,840.00
+Allowed Amount: $1,950.00
+
+COST BREAKDOWN
+Allowed Amount: $1,950.00
+Your Remaining Deductible: $1,650.00
+Amount Applied to Deductible: $1,650.00
+Remaining Allowed Amount after Deductible: $300.00
+Your Coinsurance (20%): $60.00
+Plan Paid: $240.00
+
+CLAIM SUMMARY
+Billed by Provider: $2,840.00
+Your Plan's Allowed Amount: $1,950.00
+Amount Not Covered by Plan (write-off): $890.00
+
+FINANCIAL RESPONSIBILITY
+Amount Applied to Your Deductible: $1,650.00
+Your Coinsurance Amount Due: $60.00
+
+═════════════════════════════════════════
+WHAT YOU OWE: $1,710.00
+═════════════════════════════════════════
+
+This amount includes:
+  Deductible: $1,650.00
+  Coinsurance: $60.00
+
+Plan Paid to Provider: $240.00
+Effective Date of Coverage: January 1, 2026
+
+Questions? Contact Evergreen Benefits Group at 1-800-EVG-HELP
+or visit www.evergreenbg.com

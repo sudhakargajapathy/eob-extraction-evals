@@ -1,0 +1,45 @@
+┌─────────────────────────────────────────────────────────────┐
+│                   CASCADIA HEALTH PLAN                             │
+│              EXPLANATION OF BENEFITS (EOB)                         │
+└─────────────────────────────────────────────────────────────────────┘
+
+MEMBER INFORMATION
+Member Name:                          Marcus T. Whitmore
+Member ID:                            CHP-7849362-01
+Date of Service:                      January 15, 2026
+Claim Number:                         CLM-2026-891447
+Statement Period:                     January 1, 2026 – January 31, 2026
+
+PROVIDER INFORMATION
+Provider Name:                        Dr. Alan Reyes, Family Medicine
+Provider ID:                          FAC-4521-DR
+Service Location:                     Cascadia Medical Center, Portland
+
+─────────────────────────────────────────────────────────────────────
+
+CLAIM DETAIL
+
+Service Description            Billed Amount   Allowed Amount   Plan Paid   Member Owes
+─────────────────────────────────────────────────────────────────────────────────────
+Office Visit – Established        $150.00        $150.00        $150.00      $0.00
+Patient (New Patient Exam)
+
+─────────────────────────────────────────────────────────────────────
+
+CLAIM SUMMARY
+
+Total Billed Amount                                              $150.00
+Total Allowed Amount                                            $150.00
+Plan Paid Amount                                                $150.00
+Member Responsibility                                             $0.00
+─────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT YOU OWE THIS PROVIDER                                $0.00
+
+This service was covered under your plan at 100% after the allowed 
+amount was determined. You have no out-of-pocket cost for this visit.
+
+─────────────────────────────────────────────────────────────────────
+
+THIS IS NOT A BILL. This document explains how Cascadia Health Plan 
+processed your claim. If you have questions about this EOB, contact 
+Customer Service at 1-800-555-0147.

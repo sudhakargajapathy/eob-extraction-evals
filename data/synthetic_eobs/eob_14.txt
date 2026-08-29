@@ -1,0 +1,69 @@
+EXPLANATION OF BENEFITS
+================================================================================
+
+DOCUMENT DATE: 02/15/2026
+ACCT REF: CLM-2026-0847521
+PAYER: MERIDIAN CARE ALLIANCE
+PLAN TYPE: PPO STANDARD
+
+MEMBER INFORMATION
+================================================================================
+SUBSCRIBER NAME: JAMES R. PATTERSON
+SUBSCRIBER NO.: MCA-447829-001
+DATE OF BIRTH: 07/14/1978
+GROUP NUMBER: 847-GRP-NW
+
+PROVIDER INFORMATION
+================================================================================
+PROVIDER NAME: PINECREST FAMILY CLINIC
+PROVIDER ID: PIN-48921-FC
+ADDRESS: 2847 RIVERSIDE DRIVE, SALEM, OR 97301
+NPI: 1245987362
+
+CLAIM SUMMARY
+================================================================================
+CLAIM PERIOD: 01/01/2026 - 01/31/2026
+SERVICE DATE: 01/18/2026
+PATIENT: JAMES R. PATTERSON
+
+SERVICE DETAILS
+================================================================================
+
+SERVICE DESCRIPTION          BILLED      ALLOWED     PLAN PAID   MEMBER RESP
+- Office Visit - Established    95.00 USD   85.00 USD   68.00 USD   17.00 USD
+- Rapid Strep Test             42.00 USD   40.00 USD   32.00 USD    8.00 USD
+
+TOTALS                        137.00 USD  125.00 USD  100.00 USD   25.00 USD
+
+CLAIM PROCESSING NOTES
+================================================================================
+CLAIM STATUS: PROCESSED AND PAID
+All services allowed and processed according to plan benefits.
+
+BENEFIT INFORMATION
+================================================================================
+OFFICE VISIT COPAY: 0.00 USD (waived; coinsurance applies)
+COINSURANCE RATE: 20 percent
+DEDUCTIBLE MET THIS YEAR: YES
+OUT-OF-POCKET MAXIMUM: 2500.00 USD
+AMOUNT APPLIED TO OUT-OF-POCKET: 25.00 USD
+REMAINING OUT-OF-POCKET: 2475.00 USD
+
+PAYMENT DETAILS
+================================================================================
+TOTAL AMOUNT BILLED: 137.00 USD
+TOTAL ALLOWED AMOUNT: 125.00 USD
+AMOUNT NOT COVERED: 12.00 USD
+MERIDIAN CARE ALLIANCE PAID TO PROVIDER: 100.00 USD
+MEMBER OWES PROVIDER: 25.00 USD
+
+REMITTANCE NOTICE
+================================================================================
+This is not a bill. Please direct all inquiries to Meridian Care Alliance
+Member Services at 1-800-MCARE-99 or visit www.meridiancare.net.
+
+If you believe this claim was processed incorrectly, you may appeal within
+180 days of this notice.
+
+================================================================================
+END OF EXPLANATION OF BENEFITS

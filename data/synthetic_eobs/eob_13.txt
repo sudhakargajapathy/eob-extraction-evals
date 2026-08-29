@@ -1,0 +1,51 @@
+EXPLANATION OF BENEFITS
+
+Evergreen Benefits Group
+Claims Department
+P.O. Box 4782
+Portland, OR 97209
+
+CLAIM DETAILS
+
+Subscriber Name: Jennifer R. Paulson
+Subscriber ID: EBG-782945-001
+Claim Number: CLM-2026-0547821
+Provider: Dr. Marcus Hale, Psychiatry
+Provider ID: PHY-88441
+Service Dates: May 6, 2026 - May 20, 2026
+Claim Received: May 28, 2026
+
+Service Description:
+- Date: May 6, 2026 | Individual psychotherapy session, 60 minutes
+- Date: May 20, 2026 | Individual psychotherapy session, 60 minutes
+
+PAYMENT DETAILS
+
+Service Date: May 6, 2026
+Procedure Code: 90834
+Billed Amount: $185.00
+Allowed Amount: $165.00
+Plan Paid: $130.00
+Copay (Member Responsibility): $35.00
+Status: Processed
+
+Service Date: May 20, 2026
+Procedure Code: 90834
+Billed Amount: $185.00
+Allowed Amount: $165.00
+Plan Paid: $130.00
+Copay (Member Responsibility): $35.00
+Status: Processed
+
+CLAIM SUMMARY
+
+Total Billed: $370.00
+Total Allowed: $330.00
+Total Plan Paid: $260.00
+Total Member Copays: $70.00
+
+Your Responsibility: $70.00
+
+This document shows how your insurance processed your claim. Your out-of-pocket cost is your copay amount listed above. You are not responsible for any difference between the billed amount and the allowed amount.
+
+If you have questions about this EOB, contact Evergreen Benefits Group at 1-800-556-4829.

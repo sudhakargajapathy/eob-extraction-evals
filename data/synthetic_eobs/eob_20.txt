@@ -1,0 +1,66 @@
+EXPLANATION OF BENEFITS
+================================================================================
+
+CLAIM INFORMATION
+Claim Number: NLA-202602-087641
+Claim Period: February 1, 2026 - February 28, 2026
+Payer: Northlake Assurance
+Date Issued: March 5, 2026
+
+MEMBER INFORMATION
+Member Name: Christopher James Mitchell
+Member ID: NLA-4827-5961
+Date of Birth: 08/14/2019
+Group Number: EMP-CORP-2847
+
+PROVIDER INFORMATION
+Provider Name: Dr. Grace Obi, Pediatrics
+Provider ID: 44-787-2204
+Facility: Riverside Pediatric Clinic
+Address: 512 Maple Street, Portland, OR 97214
+
+SERVICE INFORMATION
+Date of Service: February 12, 2026
+Type of Service: Office Visit - Sick Child
+Service Description: Pediatric sick visit with nebulizer treatment
+
+CLAIM DETAIL
+--------------------------------------------------------------------------------
+Procedure Code: 99214
+Service Description: Established patient office visit, moderate
+Billed Amount: $185.00
+Allowed Amount: $155.00
+Plan Paid: $116.25
+Copay: $25.00
+Coinsurance (20%): $13.75
+Member Responsibility: $38.75
+
+Procedure Code: 94060
+Service Description: Nebulizer treatment and associated medications
+Billed Amount: $95.00
+Allowed Amount: $85.00
+Plan Paid: $68.00
+Copay: $0.00
+Coinsurance (20%): $17.00
+Member Responsibility: $17.00
+
+CLAIM SUMMARY
+--------------------------------------------------------------------------------
+Total Billed: $280.00
+Total Allowed: $240.00
+Total Plan Paid: $184.25
+Total Member Responsibility: $55.75
+Total Copay: $25.00
+Total Coinsurance: $30.75
+
+MEMBER PAYMENT DETAILS
+Your responsibility for this claim is $55.75
+Copay paid at visit: $25.00
+Balance due: $30.75
+
+CONTACT INFORMATION
+For questions about this Explanation of Benefits, contact Northlake Assurance
+Customer Service: 1-877-444-8192
+Website: www.northlakeassurance.com
+
+This is not a bill. Please retain for your records.

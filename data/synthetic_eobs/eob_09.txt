@@ -1,0 +1,44 @@
+MERIDIAN CARE ALLIANCE
+EXPLANATION OF BENEFITS
+REMITTANCE ADVICE
+
+Member Name: James P. Mitchell
+Member ID: MCA-887-654-321
+Claim Number: CLM-2026-0445821
+Provider: Foothills Orthopedic Group
+Service Period: April 2026
+Processed Date: April 28, 2026
+
+================================================================================
+SVC DATE    CPT      DESCRIPTION              BILLED      ALLOWED     PAID    PT RESP
+================================================================================
+04/02/2026  29881    Knee arthroscopy        1500.00     1320.00     0.00    1320.00
+04/02/2026  29877    Debridement knee        800.00      800.00      640.00  160.00
+04/02/2026  29882    Meniscus repair         950.00      750.00      600.00  150.00
+04/02/2026  99214    Office visit EST       280.00      280.00      224.00  56.00
+04/09/2026  29885    Cartilage procedure    1100.00     825.00       660.00  165.00
+================================================================================
+
+CLAIM SUMMARY
+Total Billed:                          4630.00
+Total Allowed:                         3975.00
+Total Plan Paid:                       2124.00
+Total Member Responsibility:           1851.00
+
+MEMBER RESPONSIBILITY BREAKDOWN
+Deductible Applied:                    1320.00
+Coinsurance (20%):                     531.00
+Total Due from Member:                 1851.00
+
+NOTES AND ADJUSTMENT CODES
+CO-45: Charge exceeds fee schedule. Billed amount for CPT 29881 reduced
+       from 1500.00 to 1320.00 per contracted fee schedule.
+
+Member deductible has been satisfied with this claim.
+Plan coinsurance percentage: 20% after deductible.
+
+For questions, contact Meridian Care Alliance Member Services:
+Phone: 1-800-555-0198
+Web: www.meridiancare.example.com
+
+Please remit payment within 30 days of service date.

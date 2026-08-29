@@ -1,0 +1,73 @@
+EXPLANATION OF BENEFITS
+
+Subscriber ID: CHP-7482916
+Member Name: Marcus J. Donovan
+Claim Number: CLM-2026-0847523
+Date of Issue: April 15, 2026
+
+---
+
+CLAIM DETAILS
+
+Provider: Riverbend Physical Therapy
+Provider Address: 842 Cascade Drive, Portland, OR 97214
+Provider ID: PT-4829
+
+Service Description: Physical Therapy - Therapeutic Exercise and Manual Therapy
+Service Date Range: March 3, 2026 through April 7, 2026
+Number of Visits: 6
+
+Diagnosis Code: M79.3 (Panniculitis, unspecified)
+
+---
+
+PAYMENT DETAILS
+
+Visit 1 - March 3, 2026
+Amount Billed: $185.00
+Allowed Amount: $155.00
+Cascadia Health Plan Pays: $124.00
+Subscriber Responsibility (20% coinsurance): $31.00
+
+Visit 2 - March 10, 2026
+Amount Billed: $185.00
+Allowed Amount: $155.00
+Cascadia Health Plan Pays: $124.00
+Subscriber Responsibility (20% coinsurance): $31.00
+
+Visit 3 - March 17, 2026
+Amount Billed: $185.00
+Allowed Amount: $155.00
+Cascadia Health Plan Pays: $124.00
+Subscriber Responsibility (20% coinsurance): $31.00
+
+Visit 4 - March 24, 2026
+Amount Billed: $185.00
+Allowed Amount: $155.00
+Cascadia Health Plan Pays: $124.00
+Subscriber Responsibility (20% coinsurance): $31.00
+
+Visit 5 - March 31, 2026
+Amount Billed: $185.00
+Allowed Amount: $155.00
+Cascadia Health Plan Pays: $124.00
+Subscriber Responsibility (20% coinsurance): $31.00
+
+Visit 6 - April 7, 2026
+Amount Billed: $185.00
+Allowed Amount: $155.00
+Cascadia Health Plan Pays: $124.00
+Subscriber Responsibility (20% coinsurance): $31.00
+
+---
+
+CLAIM TOTALS
+
+Total Amount Billed: $1,110.00
+Total Allowed Amount: $930.00
+Total Cascadia Health Plan Payment: $744.00
+Total Subscriber Responsibility: $186.00
+
+---
+
+You are responsible for paying Riverbend Physical Therapy the amount shown above as Subscriber Responsibility. Please retain this EOB for your records.

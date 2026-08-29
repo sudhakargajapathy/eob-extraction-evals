@@ -1,0 +1,48 @@
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                        EXPLANATION OF BENEFITS                                     ║
+║                      Harbor Point Mutual Insurance                                  ║
+║                                                                                       ║
+║                    Plan: Harbor Point Select Plus HMO                                ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
+
+MEMBER INFORMATION
+─────────────────────────────────────────────────────────────────────────────────────
+Member Name:                 Jennifer M. Caldwell
+Member ID:                   HPS-887-4521-Q
+Claim Number:                CLM-2026-048392
+Service Date:                February 17, 2026
+Claim Processed Date:         February 24, 2026
+
+
+CLAIM DETAILS
+─────────────────────────────────────────────────────────────────────────────────────
+
+Service Provider:            Northgate Surgery Center
+Provider Address:            4521 Meadowbrook Drive, Springfield, IL 62701
+Claim Period:                February 1 – February 28, 2026
+
+
+SERVICES AND CHARGES
+─────────────────────────────────────────────────────────────────────────────────────
+Description of Service          Billed Amount    Allowed Amount   Plan Paid    Member Owes
+Colonoscopy - Preventive        $1,875.00        $1,250.00        $1,250.00    $0.00
+
+
+SUMMARY
+─────────────────────────────────────────────────────────────────────────────────────
+Total Billed Charges:                                             $1,875.00
+Total Allowed Charges:                                            $1,250.00
+Total Plan Paid:                                                  $1,250.00
+Total Member Responsibility:                                      $0.00
+
+Benefit Applied:              Preventive Care – 100% Covered
+Deductible Status:            Not applicable (preventive screening)
+
+
+─────────────────────────────────────────────────────────────────────────────────────
+THIS IS NOT A BILL
+
+This document is an Explanation of Benefits. It is not a bill. Do not send payment to
+the provider based on this notice. The provider has already been paid or will be paid
+separately according to the terms of your plan. If you have questions about this claim,
+please contact Harbor Point Mutual at 1-888-744-5629.

@@ -1,0 +1,73 @@
+================================================================================
+EXPLANATION OF BENEFITS
+================================================================================
+
+PAYER: NORTHLAKE ASSURANCE
+CLAIM NUMBER: NLA-2026-0847521
+MEMBER NAME: PATRICIA MULLINS
+MEMBER ID: NLA847521691
+GROUP NUMBER: EMP-5521
+CLAIM PERIOD: MARCH 2026
+STATEMENT DATE: APRIL 8, 2026
+
+================================================================================
+PROVIDER INFORMATION
+================================================================================
+
+PROVIDER NAME: DR. ELENA VASQUEZ, ENDOCRINOLOGY
+PROVIDER ID: 445829
+FACILITY: SUNRISE ENDOCRINE CLINIC
+ADDRESS: 2847 MEDICAL CENTER DRIVE, SUITE 340
+
+================================================================================
+SERVICES RENDERED
+================================================================================
+
+SERVICE DATE: MARCH 14, 2026
+DESCRIPTION: ENDOCRINOLOGY FOLLOW-UP VISIT (99214)
+BILLED AMOUNT: $385.00
+ALLOWED AMOUNT: $275.00
+PLAN PAID: $220.00
+MEMBER COINSURANCE (20%): $55.00
+PATIENT RESPONSIBILITY: $55.00
+
+SERVICE DATE: MARCH 14, 2026
+DESCRIPTION: HEMOGLOBIN A1C LAB TEST (83036)
+BILLED AMOUNT: $68.50
+ALLOWED AMOUNT: $48.00
+PLAN PAID: $38.40
+MEMBER COINSURANCE (20%): $9.60
+PATIENT RESPONSIBILITY: $9.60
+
+================================================================================
+CLAIM TOTALS
+================================================================================
+
+TOTAL BILLED AMOUNT: $453.50
+TOTAL ALLOWED AMOUNT: $323.00
+TOTAL PLAN PAID: $258.40
+TOTAL MEMBER RESPONSIBILITY: $64.60
+
+================================================================================
+PAYMENT DETAILS
+================================================================================
+
+CLAIM STATUS: PROCESSED AND PAID
+PAYMENT METHOD: ELECTRONIC FUNDS TRANSFER
+EXPECTED PAYMENT DATE: APRIL 15, 2026
+
+DEDUCTIBLE STATUS: SATISFIED
+COINSURANCE RATE: 20%
+OUT-OF-POCKET ACCUMULATION: $64.60
+
+================================================================================
+IMPORTANT INFORMATION
+================================================================================
+
+THIS IS NOT A BILL. SUBMIT ANY QUESTIONS TO NORTHLAKE ASSURANCE WITHIN
+30 DAYS OF THIS STATEMENT DATE. YOUR MEMBER COINSURANCE AMOUNTS ABOVE
+APPLY TOWARD YOUR ANNUAL OUT-OF-POCKET MAXIMUM.
+
+QUESTIONS? CALL MEMBER SERVICES AT 1-800-555-0192 OR VISIT WWW.NORTHLAKE-ASSURANCE.COM
+
+================================================================================

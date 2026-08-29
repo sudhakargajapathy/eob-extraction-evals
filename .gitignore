@@ -1,0 +1,14 @@
+# Environment and secrets
+.env
+.env.*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Scratch and caches
+scratch/
+.cache/
+.pytest_cache/

@@ -1,0 +1,9 @@
+[project]
+name = "eob-extraction-evals"
+version = "0.1.0"
+description = "Evaluation-driven LLM extraction on synthetic EOB documents: golden set, per-field precision/recall, measured prompt iteration, grounded summaries"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=1.2.0",
+    "pydantic>=2.13.5",
+]

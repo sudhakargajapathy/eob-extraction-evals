@@ -1,0 +1,11 @@
+{
+  "_comment": "Pre-registered before any extraction run. Failure analysis for prompt v2 may only read documents in 'analysis'; 'holdout' documents are never inspected during prompt iteration and serve as a small generalization check. Holdout is stratified: it contains clean docs (eob_03, eob_08, eob_18) and messy docs (eob_14 odd labels and unsigned amounts, eob_19 prose date and buried denial codes).",
+  "analysis": [
+    "eob_01", "eob_02", "eob_04", "eob_05", "eob_06",
+    "eob_07", "eob_09", "eob_10", "eob_11", "eob_12",
+    "eob_13", "eob_15", "eob_16", "eob_17", "eob_20"
+  ],
+  "holdout": [
+    "eob_03", "eob_08", "eob_14", "eob_18", "eob_19"
+  ]
+}

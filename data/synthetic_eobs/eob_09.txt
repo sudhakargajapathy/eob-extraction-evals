@@ -31,8 +31,8 @@ Coinsurance (20%):                     531.00
 Total Due from Member:                 1851.00
 
 NOTES AND ADJUSTMENT CODES
-CO-45: Charge exceeds fee schedule. Billed amount for CPT 29881 reduced
-       from 1500.00 to 1320.00 per contracted fee schedule.
+CO-45: Charge exceeds fee schedule. Charge for CPT 29881 reduced from
+       billed 1500.00 to the contracted allowed amount of 1320.00.
 
 Member deductible has been satisfied with this claim.
 Plan coinsurance percentage: 20% after deductible.
@@ -41,4 +41,4 @@ For questions, contact Meridian Care Alliance Member Services:
 Phone: 1-800-555-0198
 Web: www.meridiancare.example.com
 
-Please remit payment within 30 days of service date.
+This is not a bill. Any amount you owe is payable to your provider.

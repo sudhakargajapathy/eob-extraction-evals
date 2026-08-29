@@ -8,9 +8,10 @@ Payer: Northlake Assurance
 Date Issued: March 5, 2026
 
 MEMBER INFORMATION
-Member Name: Christopher James Mitchell
+Member Name: David A. Mitchell
 Member ID: NLA-4827-5961
-Date of Birth: 08/14/2019
+Patient Name: Christopher James Mitchell
+Patient Date of Birth: 08/14/2019
 Group Number: EMP-CORP-2847
 
 PROVIDER INFORMATION
@@ -35,7 +36,7 @@ Copay: $25.00
 Coinsurance (20%): $13.75
 Member Responsibility: $38.75
 
-Procedure Code: 94060
+Procedure Code: 94640
 Service Description: Nebulizer treatment and associated medications
 Billed Amount: $95.00
 Allowed Amount: $85.00

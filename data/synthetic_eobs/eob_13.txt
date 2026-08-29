@@ -22,7 +22,7 @@ Service Description:
 PAYMENT DETAILS
 
 Service Date: May 6, 2026
-Procedure Code: 90834
+Procedure Code: 90837
 Billed Amount: $185.00
 Allowed Amount: $165.00
 Plan Paid: $130.00
@@ -30,7 +30,7 @@ Copay (Member Responsibility): $35.00
 Status: Processed
 
 Service Date: May 20, 2026
-Procedure Code: 90834
+Procedure Code: 90837
 Billed Amount: $185.00
 Allowed Amount: $165.00
 Plan Paid: $130.00

@@ -22,7 +22,7 @@ CLAIM DETAIL
 Service Description            Billed Amount   Allowed Amount   Plan Paid   Member Owes
 ─────────────────────────────────────────────────────────────────────────────────────
 Office Visit – Established        $150.00        $150.00        $150.00      $0.00
-Patient (New Patient Exam)
+Patient
 
 ─────────────────────────────────────────────────────────────────────
 

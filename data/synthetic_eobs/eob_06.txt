@@ -17,7 +17,7 @@ Service Description: Physical Therapy - Therapeutic Exercise and Manual Therapy
 Service Date Range: March 3, 2026 through April 7, 2026
 Number of Visits: 6
 
-Diagnosis Code: M79.3 (Panniculitis, unspecified)
+Diagnosis Code: M25.561 (Pain in right knee)
 
 ---
 

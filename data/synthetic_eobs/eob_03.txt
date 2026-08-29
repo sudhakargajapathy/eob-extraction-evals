@@ -11,7 +11,7 @@ Provider ID: SMIT-004521
 
 SERVICE DETAILS
 Service Description: MRI Knee (Right)
-Service Code: 70553
+Service Code: 73721
 Billed Amount: $2,840.00
 Allowed Amount: $1,950.00
 

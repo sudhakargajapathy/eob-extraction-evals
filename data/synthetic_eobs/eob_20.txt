@@ -31,10 +31,10 @@ Procedure Code: 99214
 Service Description: Established patient office visit, moderate
 Billed Amount: $185.00
 Allowed Amount: $155.00
-Plan Paid: $116.25
+Plan Paid: $104.00
 Copay: $25.00
-Coinsurance (20%): $13.75
-Member Responsibility: $38.75
+Coinsurance (20%): $26.00
+Member Responsibility: $51.00
 
 Procedure Code: 94640
 Service Description: Nebulizer treatment and associated medications
@@ -49,15 +49,15 @@ CLAIM SUMMARY
 --------------------------------------------------------------------------------
 Total Billed: $280.00
 Total Allowed: $240.00
-Total Plan Paid: $184.25
-Total Member Responsibility: $55.75
+Total Plan Paid: $172.00
+Total Member Responsibility: $68.00
 Total Copay: $25.00
-Total Coinsurance: $30.75
+Total Coinsurance: $43.00
 
 MEMBER PAYMENT DETAILS
-Your responsibility for this claim is $55.75
+Your responsibility for this claim is $68.00
 Copay paid at visit: $25.00
-Balance due: $30.75
+Balance due: $43.00
 
 CONTACT INFORMATION
 For questions about this Explanation of Benefits, contact Northlake Assurance

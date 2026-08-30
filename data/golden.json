@@ -260,8 +260,8 @@
     "provider_name": "Dr. Grace Obi, Pediatrics",
     "billed_amount": 280.00,
     "allowed_amount": 240.00,
-    "paid_amount": 184.25,
-    "member_responsibility": 55.75,
+    "paid_amount": 172.00,
+    "member_responsibility": 68.00,
     "denial_codes": [],
     "denial_reasons": []
   }

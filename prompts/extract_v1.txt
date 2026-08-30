@@ -1,0 +1,20 @@
+Extract the following fields from this Explanation of Benefits (EOB) document.
+
+- member_id: the member's ID
+- claim_number: the claim number
+- service_date_start: the date service began
+- service_date_end: the date service ended
+- provider_name: the provider's name
+- billed_amount: the total billed amount
+- allowed_amount: the total allowed amount
+- paid_amount: the total the plan paid
+- member_responsibility: the total the member owes
+- denial_codes: any denial codes
+- denial_reasons: the reasons for any denials
+
+If a field is not present in the document, use null. For each field, also
+report your confidence from 0 to 1.
+
+Document:
+
+{document}

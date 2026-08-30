@@ -1,0 +1,84 @@
+{
+  "version": "v1",
+  "overall_accuracy": 0.9954545454545455,
+  "analysis_accuracy": 0.9939393939393939,
+  "holdout_accuracy": 1.0,
+  "per_field": {
+    "member_id": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "claim_number": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "service_date_start": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "service_date_end": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "provider_name": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "billed_amount": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "allowed_amount": {
+      "accuracy": 0.95,
+      "precision": 0.95,
+      "recall": 1.0
+    },
+    "paid_amount": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "member_responsibility": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "denial_codes": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "denial_reasons": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  },
+  "human_review_count": 10,
+  "human_review_fields": [
+    "eob_07.member_id",
+    "eob_09.denial_codes",
+    "eob_09.denial_reasons",
+    "eob_11.member_id",
+    "eob_11.claim_number",
+    "eob_11.allowed_amount",
+    "eob_11.paid_amount",
+    "eob_12.service_date_start",
+    "eob_12.service_date_end",
+    "eob_17.member_id"
+  ],
+  "failures": {
+    "eob_11": {
+      "allowed_amount": {
+        "golden": null,
+        "predicted": 0.0
+      }
+    }
+  }
+}

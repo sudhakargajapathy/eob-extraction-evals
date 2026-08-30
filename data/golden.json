@@ -1,4 +1,15 @@
 {
+  "_meta": {
+    "version": "1.0",
+    "labeling": "authored by reading each document, independent of the extraction pipeline; every value mechanically verified against the source text",
+    "conventions": "ISO dates, single-date claims repeat the date; amounts as numbers; totals as printed, or summed from printed per-service values; a value stated in words counts as stated; null only when a field is absent from the document; provider names title-case, compared case-insensitively; any printed CARC/RARC adjudication code counts as a denial code",
+    "adjudication": {
+      "reviewed_by": "Sudhakar Gajapathy",
+      "date": "2026-08-30",
+      "scope": "all 20 documents, field by field, against source documents",
+      "corrections": 5
+    }
+  },
   "eob_01": {
     "member_id": "CHP-7849362-01",
     "claim_number": "CLM-2026-891447",

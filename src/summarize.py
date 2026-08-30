@@ -42,6 +42,7 @@ Rules:
 - For fields listed as under review you may say the value is still being
   reviewed, but never state a value for them.
 - Warm and clear, about a sixth-grade reading level, at most 120 words.
+- Plain text only: no markdown, asterisks, or formatting characters.
 
 Facts:
 {facts}

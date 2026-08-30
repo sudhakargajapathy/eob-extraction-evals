@@ -21,8 +21,8 @@ Facility:                 Riverside Medical Center
 
 Service Description                    Billed    Allowed    Ded.    Coins.   Plan Paid
 ─────────────────────────────────────────────────────────────────────────────────
-Diagnostic Upper Endoscopy             $2,400.00 $1,850.00  $250.00 $370.00  $1,230.00
-Physician Fee                          $   850.00 $   625.00  $125.00 $125.00  $   375.00
+Diagnostic Upper Endoscopy             $2,400.00 $1,850.00  $250.00 $320.00  $1,280.00
+Physician Fee                          $   850.00 $   625.00  $125.00 $100.00  $   400.00
 
 ─────────────────────────────────────────────────────────────────────────────────
 
@@ -31,9 +31,9 @@ TOTALS
 Total Billed Amount:                                          $3,250.00
 Total Allowed Amount:                                         $2,475.00
 Total Deductible Applied:                                     $   375.00
-Total Coinsurance (20%):                                      $   495.00
-Total Plan Paid:                                              $1,605.00
-Total Member Responsibility:                                  $   870.00
+Total Coinsurance (20%):                                      $   420.00
+Total Plan Paid:                                              $1,680.00
+Total Member Responsibility:                                  $   795.00
 
 
 ═════════════════════════════════════════════════════════════════════════════════

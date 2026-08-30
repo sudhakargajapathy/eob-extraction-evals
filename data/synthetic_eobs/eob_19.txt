@@ -17,7 +17,7 @@ Payment details
 Service Description: Overnight Polysomnography (Sleep Study)
 Procedure Code: 95810
 Billed Amount: $2,847.50
-Allowed Amount: $2,847.50
+Allowed Amount: $0.00
 Plan Paid: $0.00
 Member Responsibility: $2,847.50
 

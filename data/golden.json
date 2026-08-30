@@ -243,7 +243,7 @@
     "service_date_end": "2026-04-16",
     "provider_name": "Silver Lake Sleep Center",
     "billed_amount": 2847.50,
-    "allowed_amount": 2847.50,
+    "allowed_amount": 0.00,
     "paid_amount": 0.00,
     "member_responsibility": 2847.50,
     "denial_codes": ["CO-197", "CO-252"],

@@ -138,9 +138,9 @@ def main() -> None:
         s = per_field[f]
         print(f"{f:<24}{s['accuracy']:>7.2f}{s['precision']:>7.2f}{s['recall']:>7.2f}")
     overall = cell_accuracy(golden, extractions, doc_ids)
-    print(f"{'OVERALL (all cells)':<24}{overall:>7.2f}")
-    print(f"{'  analysis set (15)':<24}{cell_accuracy(golden, extractions, split['analysis']):>7.2f}")
-    print(f"{'  holdout set (5)':<24}{cell_accuracy(golden, extractions, split['holdout']):>7.2f}")
+    print(f"{'OVERALL (all cells)':<24}{overall:>7.3f}")
+    print(f"{'  analysis set (15)':<24}{cell_accuracy(golden, extractions, split['analysis']):>7.3f}")
+    print(f"{'  holdout set (5)':<24}{cell_accuracy(golden, extractions, split['holdout']):>7.3f}")
     print(f"\n{len(routed)} fields routed to human review (confidence < {CONFIDENCE_THRESHOLD})")
 
     shown = doc_ids if show_holdout else split["analysis"]

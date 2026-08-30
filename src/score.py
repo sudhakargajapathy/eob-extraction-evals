@@ -9,7 +9,8 @@ writes the full detail to results/scores_<version>.json.
 Failure detail is printed for analysis-set documents only: holdout
 failures stay unread during prompt iteration (data/split.json). Pass
 --show-holdout only for final reporting, after iteration is frozen.
-Usage: uv run src/score.py v1|v2 [--show-holdout]
+With --pdf, scores the native-PDF-input extractions against the same
+golden set. Usage: uv run src/score.py v1|v2 [--pdf] [--show-holdout]
 """
 
 from __future__ import annotations
@@ -106,16 +107,17 @@ def cell_accuracy(golden: dict, extractions: dict, doc_ids: list[str]) -> float:
 
 def main() -> None:
     if len(sys.argv) < 2 or sys.argv[1] not in ("v1", "v2"):
-        sys.exit("usage: uv run src/score.py v1|v2 [--show-holdout]")
+        sys.exit("usage: uv run src/score.py v1|v2 [--pdf] [--show-holdout]")
     version = sys.argv[1]
     show_holdout = "--show-holdout" in sys.argv
+    suffix = "_pdf" if "--pdf" in sys.argv else ""
 
     golden = {
         k: v for k, v in json.loads((ROOT / "data" / "golden.json").read_text()).items()
         if not k.startswith("_")
     }
     split = json.loads((ROOT / "data" / "split.json").read_text())
-    extractions = json.loads((ROOT / "results" / f"extractions_{version}.json").read_text())
+    extractions = json.loads((ROOT / "results" / f"extractions_{version}{suffix}.json").read_text())
     doc_ids = sorted(golden)
 
     per_field = {f: field_stats(f, golden, extractions, doc_ids) for f in FIELDS}
@@ -132,7 +134,8 @@ def main() -> None:
     }
     failures = {d: fs for d, fs in failures.items() if fs}
 
-    print(f"\nPER-FIELD SCORES ({version}, {len(doc_ids)} documents)")
+    modality = "pdf input" if suffix else "text input"
+    print(f"\nPER-FIELD SCORES ({version}, {modality}, {len(doc_ids)} documents)")
     print(f"{'FIELD':<24}{'ACC':>7}{'PREC':>7}{'REC':>7}")
     for f in FIELDS:
         s = per_field[f]
@@ -156,6 +159,7 @@ def main() -> None:
 
     out = {
         "version": version,
+        "modality": "pdf" if suffix else "text",
         "overall_accuracy": overall,
         "analysis_accuracy": cell_accuracy(golden, extractions, split["analysis"]),
         "holdout_accuracy": cell_accuracy(golden, extractions, split["holdout"]),
@@ -164,7 +168,7 @@ def main() -> None:
         "human_review_fields": [f"{d}.{f}" for d, f in routed],
         "failures": failures,
     }
-    out_path = ROOT / "results" / f"scores_{version}.json"
+    out_path = ROOT / "results" / f"scores_{version}{suffix}.json"
     out_path.write_text(json.dumps(out, indent=2) + "\n")
     print(f"\nwrote {out_path.relative_to(ROOT)}")
 

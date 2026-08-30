@@ -6,4 +6,5 @@ requires-python = ">=3.11"
 dependencies = [
     "anthropic>=1.2.0",
     "pydantic>=2.13.5",
+    "reportlab>=5.0.1",
 ]

@@ -3,12 +3,16 @@
 Raw Anthropic API plus a Pydantic schema; no frameworks. The schema is the
 fixed output contract (field names, types, formats); deciding which document
 values belong in each field is the prompt's job, and only the prompt iterates
-between versions. Results land in results/extractions_<version>.json.
-Usage: uv run src/extract.py v1|v2 [doc_id ...]
+between versions. With --pdf the same prompt runs against data/pdf_eobs/
+through native PDF document input: the PDF bytes go to the model as a
+document content block, with no parsing or OCR libraries anywhere. Results
+land in results/extractions_<version>[_pdf].json.
+Usage: uv run src/extract.py v1|v2 [--pdf] [doc_id ...]
 """
 
 from __future__ import annotations
 
+import base64
 import json
 import sys
 from pathlib import Path
@@ -19,6 +23,7 @@ from pydantic import BaseModel, Field
 EXTRACT_MODEL = "claude-sonnet-5"
 ROOT = Path(__file__).resolve().parent.parent
 DOC_DIR = ROOT / "data" / "synthetic_eobs"
+PDF_DIR = ROOT / "data" / "pdf_eobs"
 PROMPT_DIR = ROOT / "prompts"
 RESULTS_DIR = ROOT / "results"
 
@@ -56,12 +61,25 @@ class EOBExtraction(BaseModel):
     confidence: FieldConfidence
 
 
-def extract(client: anthropic.Anthropic, prompt_template: str, doc_text: str) -> EOBExtraction:
+def build_content(doc_path: Path, prompt_template: str, use_pdf: bool) -> str | list[dict]:
+    """Assemble the user message for one document, as text or native PDF input."""
+    if not use_pdf:
+        return prompt_template.replace("{document}", doc_path.read_text())
+    data = base64.standard_b64encode(doc_path.read_bytes()).decode()
+    return [
+        {"type": "document",
+         "source": {"type": "base64", "media_type": "application/pdf", "data": data}},
+        {"type": "text",
+         "text": prompt_template.replace("{document}", "The document is attached as a PDF.")},
+    ]
+
+
+def extract(client: anthropic.Anthropic, content: str | list[dict]) -> EOBExtraction:
     """Run one extraction call and return the validated result."""
     response = client.messages.parse(
         model=EXTRACT_MODEL,
         max_tokens=8000,
-        messages=[{"role": "user", "content": prompt_template.replace("{document}", doc_text)}],
+        messages=[{"role": "user", "content": content}],
         output_format=EOBExtraction,
     )
     if response.parsed_output is None:
@@ -70,23 +88,26 @@ def extract(client: anthropic.Anthropic, prompt_template: str, doc_text: str) ->
 
 
 def main() -> None:
-    if len(sys.argv) < 2 or sys.argv[1] not in ("v1", "v2"):
-        sys.exit("usage: uv run src/extract.py v1|v2 [doc_id ...]")
-    version = sys.argv[1]
-    only = set(sys.argv[2:])
+    args = [a for a in sys.argv[1:] if a != "--pdf"]
+    use_pdf = "--pdf" in sys.argv
+    if not args or args[0] not in ("v1", "v2"):
+        sys.exit("usage: uv run src/extract.py v1|v2 [--pdf] [doc_id ...]")
+    version, only = args[0], set(args[1:])
     prompt_template = (PROMPT_DIR / f"extract_{version}.txt").read_text()
+    source_dir, pattern = (PDF_DIR, "*.pdf") if use_pdf else (DOC_DIR, "*.txt")
 
-    out_path = RESULTS_DIR / f"extractions_{version}.json"
+    out_path = RESULTS_DIR / f"extractions_{version}{'_pdf' if use_pdf else ''}.json"
     results: dict[str, dict] = {}
     if only and out_path.exists():
         results = json.loads(out_path.read_text())
 
     client = anthropic.Anthropic()
-    for doc_path in sorted(DOC_DIR.glob("*.txt")):
+    for doc_path in sorted(source_dir.glob(pattern)):
         doc_id = doc_path.stem
         if only and doc_id not in only:
             continue
-        results[doc_id] = extract(client, prompt_template, doc_path.read_text()).model_dump()
+        content = build_content(doc_path, prompt_template, use_pdf)
+        results[doc_id] = extract(client, content).model_dump()
         print(f"{doc_id}: extracted")
 
     RESULTS_DIR.mkdir(exist_ok=True)

@@ -14,11 +14,11 @@ Provider ID: NPI-1447852963
 CLAIM DETAIL:
 
 SVC DATE    CPT      BILLED      ALLOWED    PAID        PT RESP
-03/15/2026  E1161    1,250.00    1,250.00   0.00        1,250.00
+03/15/2026  E1161    1,250.00    0.00       0.00        1,250.00
 
 CLAIM SUMMARY:
 Total Billed:                                            1,250.00
-Total Allowed Charges:                                   1,250.00
+Total Allowed Charges:                                       0.00
 Total Plan Paid:                                         0.00
 Total Member Responsibility:                            1,250.00
 

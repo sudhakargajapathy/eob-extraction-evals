@@ -191,7 +191,7 @@
     "service_date_end": "2026-03-15",
     "provider_name": "Cedar Ridge Home Medical Supply",
     "billed_amount": 1250.00,
-    "allowed_amount": 1250.00,
+    "allowed_amount": 0.00,
     "paid_amount": 0.00,
     "member_responsibility": 1250.00,
     "denial_codes": ["PR-204"],

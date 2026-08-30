@@ -1,0 +1,36 @@
+Extract the following fields from this Explanation of Benefits (EOB) document.
+
+Field definitions:
+- member_id: the member or subscriber ID exactly as printed, including any
+  internal spaces or dashes. Labels vary: Member ID, Subscriber ID,
+  Subscriber No.
+- claim_number: the claim identifier exactly as printed. Labels vary (Claim
+  Number, Claim #, Acct Ref) and it may appear anywhere, including a
+  signature block.
+- service_date_start / service_date_end: the first and last date services
+  were actually rendered, in YYYY-MM-DD, taken from line items or prose.
+  Never use statement periods, claim periods, processing, issue, payment,
+  or coverage dates. Single-day claims repeat the same date.
+- provider_name: the treating provider or facility, never the payer or plan.
+- billed_amount / allowed_amount / paid_amount / member_responsibility:
+  claim totals in dollars. Prefer stated totals; when only per-service
+  amounts are printed, sum them.
+- denial_codes: every claim adjustment, denial, or remark code printed
+  (CARC, RARC: for example CO-45, PR-204, N386), wherever it appears,
+  including inside prose. Column legends and footnote keys are not codes.
+- denial_reasons: one concise reason per code, as stated in the document.
+
+Null and zero are different. Use null only when the document does not state
+a value at all. Use 0.00 when the document states zero in digits or words:
+"the plan will not provide payment" means paid_amount is 0.00, but if no
+allowed amount appears anywhere, allowed_amount is null.
+
+Confidence: for each field, report the probability from 0 to 1 that your
+reported answer is correct, where null is an answer like any other. A field
+the document clearly does not contain deserves a confident null. Reserve
+low confidence for genuine ambiguity: conflicting candidate values, unclear
+labels, or values you had to infer.
+
+Document:
+
+{document}

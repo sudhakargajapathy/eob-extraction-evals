@@ -1,0 +1,66 @@
+{
+  "version": "v2",
+  "overall_accuracy": 1.0,
+  "analysis_accuracy": 1.0,
+  "holdout_accuracy": 1.0,
+  "per_field": {
+    "member_id": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "claim_number": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "service_date_start": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "service_date_end": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "provider_name": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "billed_amount": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "allowed_amount": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "paid_amount": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "member_responsibility": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "denial_codes": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "denial_reasons": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  },
+  "human_review_count": 0,
+  "human_review_fields": [],
+  "failures": {}
+}
